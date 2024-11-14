@@ -12,15 +12,6 @@ No solo de amazon, pero [E-commerce Sales and Ad Spend](https://data.world/)
 
 UCI Machine Learning Repository, [Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
 
-### 5. **Public Advertising Platforms (e.g., Facebook Ads, Google Ads)**
-   - **Description**: These platforms provide demo datasets or can be connected directly to export campaign data. 
-   - **Tip**: Historical data on CTR, CPC, and ROAS from ad campaigns can be downloaded directly from these platforms for more accurate modeling.
-
----
-
-Using these datasets, you could train a machine learning model to predict **conversion rates** or **advertising spend efficiency** in order to optimize ACOS effectively. Let me know if you'd like suggestions on specific ML techniques for this analysis!
-
-
 ## Códigos
 
 
