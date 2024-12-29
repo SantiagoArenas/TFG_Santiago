@@ -8,3 +8,9 @@ jupyter
 jupyterlab
 ipykernel
 ipywidgets
+fbprophet
+statsmodels
+MinMaxScaler
+keras
+TimeseriesGenerator
+Pmdarima
