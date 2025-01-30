@@ -24,3 +24,6 @@ Al principio me estoy centrando en explorar los distintos datasets para decidir 
 - *SARIMA, Seasonal-ARIMA*: lo mismo pero identifica seasonality.
 - *LTSM, Long-Short Term Memory*: Identifican dependencias en el largo plazo, y se tienen en cuenta para que no afecten al modelo. Es mejor que una regresión logística tradicional y SVM, viene ya en un paper así que no tendríamos por qué demostrarlo nosotros, 2.6. 
 - *Facebook Prophet*: open source, hace una regresión especial que tiene en cuenta datos que faltan, outliers, patrones temporales de vacaciones y temporales de seasonality.
+
+
+https://ckh.comillas.edu/en/community/ckhexplorer/resource/analysis-of-the-impact-of-covid-19-on-the/c9cd4085-6236-4ef5-b7ac-c156890fe73a
