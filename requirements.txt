@@ -8,7 +8,8 @@ jupyter
 jupyterlab
 ipykernel
 ipywidgets
-fbprophet
 statsmodels
 keras
 Pmdarima
+xgboost
+fbprophet
